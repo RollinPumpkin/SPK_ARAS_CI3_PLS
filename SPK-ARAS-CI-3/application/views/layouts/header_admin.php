@@ -16,7 +16,7 @@ if($this->session->status !== ('Logged'))
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Sistem Pendukung Keputusan Metode ARAS</title>
+  <title>Sistem Pendukung Keputusan Penerima Bantuan Sosial Metode ARAS</title>
 
   <!-- Custom fonts for this template-->
   <link href="<?= base_url('assets/')?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -43,7 +43,7 @@ if($this->session->status !== ('Logged'))
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fas fa-database"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">SPK ARAS</div>
+        <div class="sidebar-brand-text mx-3">SosioLink</div>
       </a>
 
       <!-- Divider -->
