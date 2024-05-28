@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sistem Pendukung Keputusan Metode ARAS</title>
+	<title>Sistem Pendukung Keputusan Penerima Bantuan Sosial Metode ARAS</title>
 </head>
 <style>
     table {
